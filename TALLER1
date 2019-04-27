@@ -340,4 +340,108 @@ PORT     STATE SERVICE
 
 Nmap scan report for b-sp202-23.upiloto.edu (172.16.54.62)
 
+Host is up (0.00071s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for b-sp202-28.upiloto.edu (172.16.54.64)
+Host is up (0.00072s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for b-sp202-27.upiloto.edu (172.16.54.66)
+Host is up (0.00071s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for b-sp202-29.upiloto.edu (172.16.54.69)
+Host is up (0.00074s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for b-sp202-25.upiloto.edu (172.16.54.70)
+Host is up (0.00071s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for b-sp202-18.upiloto.edu (172.16.54.71)
+Host is up (0.00073s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+
+Nmap scan report for b-sp202-21.upiloto.edu (172.16.54.72)
+Host is up (0.00080s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for b-sp202-11.upiloto.edu (172.16.54.74)
+Host is up (0.00070s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+2701/tcp open  sms-rcinfo
+3389/tcp open  ms-wbt-server
+
+Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 
