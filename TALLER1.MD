@@ -52,33 +52,32 @@ Se quiere lanzar el comando que permita identificar en los 33 host activos el SO
 
 
 
-Resultado del comando nmap -iL Listadohostup.txt -sS (este contiene el listado de las 33 host activos identificados)
+Resultado del comando nmap -iL Listadohostup.txt -sS (este contiene el listado de las 33 host activos identificados)  
+root@kali:~/Documents# nmap -iL Listadohostup.txt -sS  
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-27 12:07 EDT  
+Nmap scan report for lukes-air.upiloto.edu (172.16.54.5)  
+Host is up (0.00079s latency).  
+Not shown: 994 closed ports  
+PORT      STATE SERVICE  
+53/tcp    open  domain  
+445/tcp   open  microsoft-ds  
+5000/tcp  open  upnp  
+5001/tcp  open  commplex-link  
+7100/tcp  open  font-service  
+49152/tcp open  unknown  
 
-root@kali:~/Documents# nmap -iL Listadohostup.txt -sS
-Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-27 12:07 EDT
-Nmap scan report for lukes-air.upiloto.edu (172.16.54.5)
-Host is up (0.00079s latency).
-Not shown: 994 closed ports
-PORT      STATE SERVICE
-53/tcp    open  domain
-445/tcp   open  microsoft-ds
-5000/tcp  open  upnp
-5001/tcp  open  commplex-link
-7100/tcp  open  font-service
-49152/tcp open  unknown
-
-Nmap scan report for b-sp202-03.upiloto.edu (172.16.54.6)
-Host is up (0.0012s latency).
-Not shown: 992 closed ports
-PORT     STATE SERVICE
-21/tcp   open  ftp
-135/tcp  open  msrpc
-139/tcp  open  netbios-ssn
-445/tcp  open  microsoft-ds
-902/tcp  open  iss-realsecure
-912/tcp  open  apex-mesh
-2701/tcp open  sms-rcinfo
-3389/tcp open  ms-wbt-server
+Nmap scan report for b-sp202-03.upiloto.edu (172.16.54.6)  
+Host is up (0.0012s latency).  
+Not shown: 992 closed ports  
+PORT     STATE SERVICE  
+21/tcp   open  ftp  
+135/tcp  open  msrpc  
+139/tcp  open  netbios-ssn  
+445/tcp  open  microsoft-ds  
+902/tcp  open  iss-realsecure  
+912/tcp  open  apex-mesh  
+2701/tcp open  sms-rcinfo  
+3389/tcp open  ms-wbt-server  
 
 Nmap scan report for 172.16.54.7
 Host is up (0.0012s latency).
@@ -464,11 +463,9 @@ Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 ![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/imagen4.PNG?raw=true)
 
 
-8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;  
-
-puerto 1521 Oracle-tns listener 12.2.0.1.0  
-puerto 5500 Oracle XML DB Enterprise Edition  
-
+8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;<\n>
+puerto 1521 Oracle-tns listener 12.2.0.1.0<\n>
+puerto 5500 Oracle XML DB Enterprise Edition<\n>
 
 9. Publicar la documentación en github.
 https://github.com/jomaarango/G1MSICTALLER1
