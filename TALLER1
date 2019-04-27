@@ -16,20 +16,28 @@ FACULTAD DE INGENIERÍA DE SISTEMAS
 POSTGRADOS
 BOGOTÁ
 ABRIL 27 DE 2019
-Crear cuenta en Github, slack, y workast 
+
+
+1. Crear cuenta en Github, slack, y workast 
 
 
 
- Realizar el tutorial Hello-world 
+2. Realizar el tutorial Hello-world 
 
-Crear los equipos en slack y workast 
-Se crea grupo en slack seguridad BD Grupo 1 
+3. Crear los equipos en slack y workast 
 
-Crear un canal y espacio para el taller 1
-   Se crea canal taller1seguridadbd
- Descubrir con nmap las bases de datos en el segmento de red suministrado. 
+4. Se crea grupo en slack seguridad BD Grupo 1 
+
+5. Crear un canal y espacio para el taller 1
+
+6. Se crea canal taller1seguridadbd
+
+7. Descubrir con nmap las bases de datos en el segmento de red suministrado. 
 
 Se realiza proceso de descubrimiento sobre el segmento objetivo:
+
+
+
 
 
 Se descubre un total de 33 host activos.
@@ -42,6 +50,9 @@ Se quiere lanzar el comando que permita identificar en los 33 host activos el SO
 
 
 
+
+
+Resultado del comando nmap -iL Listadohostup.txt -sS (este contiene el listado de las 33 host activos identificados)
 
 root@kali:~/Documents# nmap -iL Listadohostup.txt -sS
 Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-27 12:07 EDT
@@ -446,12 +457,17 @@ PORT     STATE SERVICE
 Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 
 
+
+
+
 Identificar el tipo, la versión y los puertos utilizados por cada una de ellas.
 
-En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;
+
+
+8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;
 puerto 1521 Oracle-tns listener 12.2.0.1.0
 puerto 5500 Oracle XML DB Enterprise Edition
 
-Publicar la documentación en github.
-
+9. Publicar la documentación en github.
+https://github.com/jomaarango/G1MSICTALLER1
 
