@@ -460,7 +460,7 @@ Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 
 
 
-Identificar el tipo, la versión y los puertos utilizados por cada una de ellas.
+7. Identificar el tipo, la versión y los puertos utilizados por cada una de ellas.
 ![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/imagen4.PNG?raw=true)
 
 
