@@ -42,13 +42,13 @@ Se realiza proceso de descubrimiento sobre el segmento objetivo:
 
 Se descubre un total de 33 host activos.
 
-
+![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/Imagen2.PNG?raw=true)
 
 
 
 Se quiere lanzar el comando que permita identificar en los 33 host activos el SO y las versiones de los puertos abiertos.
 
-
+![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/imagen3.PNG?raw=true)
 
 
 
@@ -461,7 +461,7 @@ Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 
 
 Identificar el tipo, la versión y los puertos utilizados por cada una de ellas.
-![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/ESCAN%202.png?raw=true)
+![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/imagen4.PNG?raw=true)
 
 
 8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;
