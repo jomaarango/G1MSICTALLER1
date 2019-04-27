@@ -461,7 +461,7 @@ Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 
 
 Identificar el tipo, la versión y los puertos utilizados por cada una de ellas.
-https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/ESCAN%202.png?raw=true
+![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/ESCAN%202.png?raw=true)
 
 
 8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;
