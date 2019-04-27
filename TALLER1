@@ -28,7 +28,7 @@ Se crea grupo en slack seguridad BD Grupo 1
 Crear un canal y espacio para el taller 1
    Se crea canal taller1seguridadbd
  Descubrir con nmap las bases de datos en el segmento de red suministrado. 
-
+<img src="https://user-images.githubusercontent.com/50047952/56852637-39513900-68e3-11e9-954a-e2d5b4ada1ae.PNG" />
 Se realiza proceso de descubrimiento sobre el segmento objetivo:
 
 
