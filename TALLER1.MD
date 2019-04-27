@@ -464,9 +464,12 @@ Nmap done: 32 IP addresses (32 hosts up) scanned in 11.00 seconds
 ![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/imagen4.PNG?raw=true)
 
 
-8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;<\n>
-puerto 1521 Oracle-tns listener 12.2.0.1.0<\n>
-puerto 5500 Oracle XML DB Enterprise Edition<\n>
+8. En el servidor 172.16.54.7 se encuentra 2 bases de datos en el;
+==========================
+puerto 1521 Oracle-tns listener 12.2.0.1.0
+==========================
+puerto 5500 Oracle XML DB Enterprise Edition
+==========================
 
 9. Publicar la documentación en github.
 https://github.com/jomaarango/G1MSICTALLER1
