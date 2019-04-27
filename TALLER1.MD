@@ -37,7 +37,7 @@ ABRIL 27 DE 2019
 Se realiza proceso de descubrimiento sobre el segmento objetivo:
 
 
-
+![Image of Yaktocat](https://github.com/jomaarango/G1MSICTALLER1/blob/Taller1/ESCANEO%20NMAP.png?raw=true)
 
 
 Se descubre un total de 33 host activos.
